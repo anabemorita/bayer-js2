@@ -1,0 +1,16 @@
+Passos:
+1 - pegar o botao, input, p do html e trazer para o js OK
+2 - pegar o que esta escrito no input OK
+3 - colocar o que esta escrito no input no paragrafo junto com uma mensagem de boas vindas OK
+4 - colocar para fazer o passo 2 e 3 ao clicar no botao OK
+
+
+Passos CEP:
+1 - pegar o botao e o input OK
+2 - pegar o que ta escrito no input OK
+3 - conectar com a API do via cep OK
+4 - pegar a resposta da api OK
+5 - colocar pra fazer o chamada da api no clique do botao OK
+
+BONUS:
+6 - colocar a resposta da api na tela
